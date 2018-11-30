@@ -1,0 +1,3 @@
+[CPLEX ROUTE] Maximum link utilization, (16,1): 0.385
+[SHORTEST ROUTE] Maximum link utilization, (10,16): 0.617
+[RANDOM ROUTE] Maximum link utilization, (10,16): 0.893
